@@ -30,7 +30,7 @@ ro.product.manufacturer=nvidia
 ro.product.locale.language=en
 ro.product.locale.region=US
 ro.wifi.channels=
-ro.board.platform=unknown
+ro.board.platform=tegra
 # ro.build.product is obsolete; use ro.product.device
 ro.build.product=thor
 # Do not try to parse ro.build.description or .fingerprint
